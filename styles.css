@@ -158,8 +158,6 @@ li {
 
 
 
-
-/*
 .stories h2 {
   color: #5A67D8;
 }
@@ -195,52 +193,6 @@ article {
   margin: 20px; 
 }
 
-.newsletter{
-  background: #48BB78;
-  color: white;
-}
 
-.newsletter .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.newsletter .btn{
-  color: white;
-  background: #5A67D8;
-  border-radius: 5px;
-  border: none;
-  margin-left: 10px;
-}
-
-form {
-  display: flex;
-  flex-direction: row;
-  margin: 10px;
-  padding: 10px;
-}
-
-input[type="email"]{
-  padding: 20px 10px; 
-  line-height: 15px; 
-  width: 400px;
-  border: none;
-  border-radius: 5px;
-}
-
-footer {
-  background: #4A5568;
-  color: white;
-  padding: 10px;
-}
-
-.newsletter.message {
-  display: inline-block;
-  margin-left: 8px;
-}
-
- */
 
 
