@@ -61,4 +61,188 @@ li {
 }
 
 
+.overview-hero {
+  background-color: #E2E8F0;
+}
+
+.overview-hero .container{
+  display: grid;
+  grid-template-columns: 1fr 1fr
+}
+
+
+.overview-hero-image img {
+  display: block;
+  border-radius: 5px ; 
+  width: 90%;
+  padding: 10px;
+
+  
+}
+
+.overview-hero-text {
+    margin: 50px;
+}
+
+
+/*
+.learn-about{
+    padding: 10px;
+    margin: 10px;
+}
+
+.learn-about .container {
+    display: grid;
+    justify-content: space-between;
+}
+
+.learn-about h2 {
+  
+  color: #48BB78;
+  font-size: 24px;
+}
+
+.learn-about .cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  grid-column: 1/4;
+  border-color: #E2E8F0;
+}
+
+
+
+.learn-about img {
+  border-radius: 5px 5px 5px 5px ;
+  width: 100%;
+  
+}
+
+.card {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card h3 {
+  color: #48BB78;
+  font-size: 21px;
+}
+
+
+.testing {
+  background: #4A5568;
+  color: white;
+  padding: 10px;
+  margin:10px ;
+  
+}
+.testing .container{
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.testing a{
+  
+  background: #48BB78 ;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  
+}
+
+.testing .btn{
+  align-self: center;
+  justify-self: center;
+} 
+
+
+
+.stories h2 {
+  color: #5A67D8;
+}
+
+.cta{
+  display: flex;
+  justify-content: center;
+}
+
+.stories h3{ 
+  font-size: 18px;
+}
+
+.stories a{ 
+  color: #5A67D8;
+  text-decoration: none;
+}
+
+
+.stories img { 
+  border-radius: 50%;
+  width: 100%;
+}
+
+article {
+  display: flex; 
+  margin: 50px; 
+  padding: 10px;
+}
+
+.article-body {
+  padding: 10px;
+  margin: 20px; 
+}
+
+.newsletter{
+  background: #48BB78;
+  color: white;
+}
+
+.newsletter .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter .btn{
+  color: white;
+  background: #5A67D8;
+  border-radius: 5px;
+  border: none;
+  margin-left: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  padding: 10px;
+}
+
+input[type="email"]{
+  padding: 20px 10px; 
+  line-height: 15px; 
+  width: 400px;
+  border: none;
+  border-radius: 5px;
+}
+
+footer {
+  background: #4A5568;
+  color: white;
+  padding: 10px;
+}
+
+.newsletter.message {
+  display: inline-block;
+  margin-left: 8px;
+}
+
+ */
+
 
